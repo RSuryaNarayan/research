@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## R Surya Narayan
+## About me 
 
 <img class="profile-picture" src="sherlock.jpg">
 
