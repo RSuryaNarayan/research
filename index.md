@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-I am a final year undergraduate student at the National Institute of Technology, Tiruchirappalli. 
+I am a final year undergraduate student at the National Institute of Technology, Tiruchirappalli. Broadly speaking, my research interests lie in the areas of computational methods using HPC architechtures. Specifically, I find myself intrigued by applying these techniques for reacting flows and combustion. I am currently working as a visiting student researcher at [Computational Reactive Flows and Energy Lab](https://crfel.umn.edu/) in collaboration with [Prof.Suo Yang](https://cse.umn.edu/me/suo-yang), the Univerisity of Minnesota, Twin Cities, Minneapolis, USA. We are working on obtaining fundamental insights on cool/warm flame dynamics under supercritical turbulent conditions using large scale Direct Numerical Simulations (DNS) leveraging the [Pele suite of codes](https://amrex-combustion.github.io/). Paralelly, I am also engaged with the [FLAME lab](http://cds.iisc.ac.in/faculty/konduriadi/), Indian Institute of Science, alongside Prof.Aditya on a project involving non-premixed flame-dynamics in dual-mode ramjet engines. 
 
 ## Research Interest
 
