@@ -1,6 +1,6 @@
 title: R Surya Narayan
 url: "https://rsn.com"
-baseurl: "/researcher"
+baseurl: "/research"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
