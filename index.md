@@ -25,7 +25,6 @@ I get piqued by:
 ---
 Links to conferences, interesting opportunities/labs and research in combustion, HPC and graduate school
 
-### Combustion | HPC and ML 
 Combustion | HPC and ML 
 --- | --- | 
 [AMReX-Codes](https://amrex-codes.github.io/) | [HPC Wire](https://www.hpcwire.com/)
@@ -36,7 +35,7 @@ Combustion | HPC and ML
 [CERFACS](https://cerfacs.fr/) | [PINNs](https://maziarraissi.github.io/PINNs/)
 [ITV](https://www.itv.rwth-aachen.de/) | [CUDA basics](https://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
 [ALD research, MIT](https://www.adrianld.mit.edu/)| [Quantum computing using Qskit](https://qiskit.org/) 
-
+--- | ---
 ## References
 ---
 * Foo Bar: Head of Department, Placeholder Names, Lorem
