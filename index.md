@@ -25,20 +25,17 @@ I get piqued by:
 ---
 Links to conferences, interesting opportunities/labs and research in combustion, HPC and graduate school
 
-### Combustion
-1. [AMReX-Codes](https://amrex-codes.github.io/)
-2. [AMReX-Combustion PeleC](https://amrex-combustion.github.io/)
-3. [The Combustion Institute](https://www.combustioninstitute.org/)
-4. [Mathias Ihme turbulent combustion group, Stanford](https://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/)
-5. [Cascade Technologies](https://www.cascadetechnologies.com/)
-6. [CERFACS](https://cerfacs.fr/)
-7. [ITV](https://www.itv.rwth-aachen.de/)
-
-### HPC and ML
-1. [HPC Wire](https://www.hpcwire.com/)
-2. [Intro to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
-3. [TF tutorials](https://www.tensorflow.org/tutorials)
-4. [Stanford scientific computing course](https://github.com/CME211/notes/blob/master/README.md)
+### Combustion | HPC and ML 
+Combustion | HPC and ML 
+--- | --- | 
+[AMReX-Codes](https://amrex-codes.github.io/) | [HPC Wire](https://www.hpcwire.com/)
+[AMReX-Combustion PeleC](https://amrex-combustion.github.io/) | [Intro to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
+[The Combustion Institute](https://www.combustioninstitute.org/) | [TF tutorials](https://www.tensorflow.org/tutorials)
+[Mathias Ihme turbulent combustion group, Stanford](https://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/) | [Stanford scientific computing course](https://github.com/CME211/notes/blob/master/README.md)
+[Cascade Technologies](https://www.cascadetechnologies.com/) | [MPI tutorial](https://mpitutorial.com/)
+[CERFACS](https://cerfacs.fr/) | [PINNs](https://maziarraissi.github.io/PINNs/)
+[ITV](https://www.itv.rwth-aachen.de/) | [CUDA basics](https://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
+--- | --- |
 
 ## References
 ---
