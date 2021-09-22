@@ -29,17 +29,18 @@ Links to conferences, interesting opportunities/labs and research in combustion,
 1. [AMReX-Codes](https://amrex-codes.github.io/)
 2. [AMReX-Combustion PeleC](https://amrex-combustion.github.io/)
 3. [The Combustion Institute](https://www.combustioninstitute.org/)
-4. [CERFACS](https://cerfacs.fr/)
-5. [ITV](https://www.itv.rwth-aachen.de/)
+4. [Mathias Ihme turbulent combustion group, Stanford](https://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/)
+5. [Cascade Technologies](https://www.cascadetechnologies.com/)
+6. [CERFACS](https://cerfacs.fr/)
+7. [ITV](https://www.itv.rwth-aachen.de/)
 
 ### HPC and ML
 1. [HPC Wire](https://www.hpcwire.com/)
 2. [Intro to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
 3. [TF tutorials](https://www.tensorflow.org/tutorials)
 4. [Stanford scientific computing course](https://github.com/CME211/notes/blob/master/README.md)
----
 
 ## References
-
+---
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
