@@ -26,7 +26,7 @@ I get piqued by:
 Links to conferences, interesting opportunities/labs and research in combustion, HPC and graduate school
 
 Combustion | HPC and ML 
---- | --- | 
+--- | ---  
 [AMReX-Codes](https://amrex-codes.github.io/) | [HPC Wire](https://www.hpcwire.com/)
 [AMReX-Combustion PeleC](https://amrex-combustion.github.io/) | [Intro to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
 [The Combustion Institute](https://www.combustioninstitute.org/) | [TF tutorials](https://www.tensorflow.org/tutorials)
