@@ -35,7 +35,7 @@ Combustion | HPC and ML
 [Cascade Technologies](https://www.cascadetechnologies.com/) | [MPI tutorial](https://mpitutorial.com/)
 [CERFACS](https://cerfacs.fr/) | [PINNs](https://maziarraissi.github.io/PINNs/)
 [ITV](https://www.itv.rwth-aachen.de/) | [CUDA basics](https://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
---- | --- |
+[ALD research, MIT] | [Quantum computing using Qskit](https://qiskit.org/) 
 
 ## References
 ---
