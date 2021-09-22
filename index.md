@@ -23,18 +23,21 @@ I get piqued by:
 
 ## Important links
 ---
-Links to conferences in combustion, HPC stuff and graduate school
+Links to conferences, interesting opportunities/labs and research in combustion, HPC and graduate school
 
 ### Combustion
+1. [AMReX-Codes](https://amrex-codes.github.io/)
+2. [AMReX-Combustion PeleC](https://amrex-combustion.github.io/)
+3. [The Combustion Institute](https://www.combustioninstitute.org/)
+4. [CERFACS](https://cerfacs.fr/)
+5. [ITV](https://www.itv.rwth-aachen.de/)
 
-### HPC
-
-### ML 
+### HPC and ML
+1. [HPC Wire](https://www.hpcwire.com/)
+2. [Intro to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
+3. [TF tutorials](https://www.tensorflow.org/tutorials)
+4. [Stanford scientific computing course](https://github.com/CME211/notes/blob/master/README.md)
 ---
-
-Here is a blockquote
-
-> To a great mind, nothing is little
 
 ## References
 
