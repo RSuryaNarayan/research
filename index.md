@@ -36,6 +36,12 @@ Combustion | HPC and ML
 [ITV](https://www.itv.rwth-aachen.de/) | [CUDA basics](https://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
 [ALD research, MIT](https://www.adrianld.mit.edu/)| [Quantum computing using Qskit](https://qiskit.org/) 
 --- | ---
+
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
 ## References
 ---
 * Foo Bar: Head of Department, Placeholder Names, Lorem
