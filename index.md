@@ -11,20 +11,25 @@ I am a final year undergraduate student at the National Institute of Technology,
 ## Research Interests
 ---
 I get piqued by:
-1. Turbulent combustion- algorithm/code development & diagnostics
-2. High-performance computing 
-3. Machine Learning on large-scale scientific datasets
-4. Quantum computing
+1. Turbulence- all forms from MHD, reacting flows to simple ones. I love chaos. Period. 
+2. Turbulent combustion- algorithm/code development & diagnostics
+3. Hypersonic reacting flows - aerothermochemical external flows and scramjet propulsion
+4. High-performance computing 
+5. Machine Learning on large-scale scientific datasets
+6. Reduced order modelling (ROM)
+7. Data driven dynamical systems (DDDS) for characterizing turbulent flow fields
+8. Quantum computing
 
 ## Publications
 ---
-1. Direct Numerical Simulation of flame-stabilization modes in dual-mode ramjets (in-preparation)
-2. Cool/Warm flame dynamics under supercritical conditions (in-preparation)
+1. Direct Numerical Simulation of turbulent flame-stabilization modes in dual-mode ramjets (in-preparation)
+2. Cool/Warm flame dynamics under supercritical turbulent conditions (in-preparation)
 
 ## Important links
 ---
 Links to conferences, interesting opportunities/labs and research in combustion, HPC and graduate school
-
+TODO: segregate research groups and national lab research. Sort under the following heads:
+Turbulence | ROM + DDDS | Combustion | Hypersonics |
 Combustion | HPC and ML 
 -----| -----  
 [AMReX-Codes](https://amrex-codes.github.io/) | [HPC Wire](https://www.hpcwire.com/)
@@ -36,7 +41,8 @@ Combustion | HPC and ML
 [ITV](https://www.itv.rwth-aachen.de/) | [CUDA basics](https://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
 [ALD research, MIT](https://www.adrianld.mit.edu/)| [Quantum computing using Qskit](https://qiskit.org/) 
 --- | ---
-
+## Food for thought
+1. [Terence Tao's drops of wisdom for life](https://terrytao.wordpress.com/career-advice/): Tao is the next big guy who managed to get really close to winning the billion dollars for solving the Navier Stokes Equations. 
 ## References
 ---
 * Foo Bar: Head of Department, Placeholder Names, Lorem
