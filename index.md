@@ -40,6 +40,7 @@ Combustion | HPC and ML
 [CERFACS](https://cerfacs.fr/) | [PINNs](https://maziarraissi.github.io/PINNs/)
 [ITV](https://www.itv.rwth-aachen.de/) | [CUDA basics](https://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf)
 [ALD research, MIT](https://www.adrianld.mit.edu/)| [Quantum computing using Qskit](https://qiskit.org/) 
+[ICTS-TIFR Fluid Dynamics and Turbulence Research Group](https://www.icts.res.in/research)
 --- | ---
 ## Food for thought
 1. [Terence Tao's drops of wisdom for life](https://terrytao.wordpress.com/career-advice/): Tao is the next big guy who managed to get really close to winning the billion dollars for solving the Navier Stokes Equations. 
