@@ -20,9 +20,9 @@ I get piqued by:
 ## Publications
 ---
 1. Navneeth Srinivasan, **Surya Narayan** and Suo Yang. "High Pressure Turbulent Cool flames - Real Gas Effects and Pressure Scaling." In [*18th International Conference on Numerical Combustion*](https://www.combustioninstitute.org/ci-event/international-meeting-on-numerical-combustion/), 2022.
-2.**Suryanarayan Ramachandran**, Navneeth Srinivasan, Taaresh Sanjeev Taneja, Hongyuan Zhang, Suo Yang. "Numerical Study of Turbulent Non-Premixed Cool Flames at High and Supercritical Pressures: Real Gas Effects and Dual Peak Structure." In [*Combustion and Flame*](https://www.journals.elsevier.com/combustion-and-flame)(submitted), 2022.
+2. **Suryanarayan Ramachandran**, Navneeth Srinivasan, Taaresh Sanjeev Taneja, Hongyuan Zhang, Suo Yang. "Numerical Study of Turbulent Non-Premixed Cool Flames at High and Supercritical Pressures: Real Gas Effects and Dual Peak Structure." In [*Combustion and Flame*](https://www.journals.elsevier.com/combustion-and-flame)(submitted), 2022. 
 3. **Suryanarayan Ramachandran**, Navneeth Srinivasan, Hongyuan Zhang,Taaresh Sanjeev Taneja, Suo Yang. "Numerical Simulations of turbulent non-premixed cool flames at supercritical/high pressures: dual peak structure, pressure scaling and real-gas effects." In [*American Physical Society-Division of Fluid Dynamics Abstracts*](accepted), 2022.
-4. **Suryanarayan Ramachandran**, Navneeth Srinivasan, Shufan Zou, Suo Yang. "Spectral Characterization of Overdriven Irregular Detonations." In [*American Physical Society-Division of Fluid Dynamics Abstracts*](accepted), 2022. 
+4. **Suryanarayan Ramachandran**, Navneeth Srinivasan, Shufan Zou, Suo Yang. "Spectral Characterization of Overdriven Irregular Detonations." In [*American Physical Society-Division of Fluid Dynamics Abstracts*](accepted), 2022.
 5. **Suryanarayan Ramachandran**, Navneeth Srinivasan, Shufan Zou, Suo Yang. "Spectral Analysis of Irregular Detonation Cellular Structures." In [*American Institute of Aeronautics and Astronautics(AIAA)-SciTech*](accepted), 2022.
 
 ## References
