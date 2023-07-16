@@ -6,27 +6,29 @@ layout: default
 ---
 <img class="profile-picture" src="profile.jpg">
 
-I am a first year Ph.D. Student at the [Computational Reactive Flow and Energy Lab](https://crfel.umn.edu/), Department of Mechanical Engineering, University of Minnesota, Twin Cities directed [Prof.Suo Yang](https://cse.umn.edu/me/suo-yang). Previously, I worked at the [FLAME lab](http://cds.iisc.ac.in/faculty/konduriadi/), Indian Institute of Science, alongside [Prof.Konduri Aditya](https://cds.iisc.ac.in/people/faculty/name/konduri-aditya/) during my undergraduate studies at the National Institute of Technology, Tiruchirappalli. I extensively work with the [Pele suite of codes](https://amrex-combustion.github.io/) to conduct Direct Numerical Simulations of Turbulent Combustion. Previously, I also worked on rarefied gas-flows and reacting gas-dynamics with [Prof.Satheesh K](https://www.iist.ac.in/aerospace/satheeshk) at [Indian Institute of Space Science & Technology](https://www.iist.ac.in/aboutus/institute) for 6 months, building [CHEMOC](https://github.com/RSuryaNarayan/CHEMOC) and [high-temperature EoS solvers](https://github.com/RSuryaNarayan/High-Temperature-Gas-Dynamics). I am also a freelance CFD code developer and maintain [INTENSE](https://github.com/RSuryaNarayan/INT--E--NSE), a 2-d structured grid Navier-Stokes solver. I also had the chance to intern over the Summer of 2021 during my undergraduate studies at ExxonMobil Upstream research and Development, Bengaluru Tech Center, India. Feel free to hit me up for a conversation on anything involving fluids, combustion, energy and computing. In my free time I listen songs. I subscribe to a broad genre of songs spanning Carnatic classical music, Pop, Rock to Western Classical. I also love cooking dishes!
+I am a second year Ph.D. Student at the [Computational Reactive Flow and Energy Lab](https://crfel.umn.edu/), Department of Mechanical Engineering, University of Minnesota, Twin Cities directed [Prof.Suo Yang](https://cse.umn.edu/me/suo-yang). I extensively work with the [Pele suite of codes](https://amrex-combustion.github.io/) to conduct Direct Numerical Simulations, enabling fundamental studies of Turbulent Combustion, Detonations and Deflagration to Detonation Transition (DDT). At CRFEL, I work in close collaboration with ExxonMobil Technology and Engineering Company on aspects concerning reactor explosion safety and predicitive design and mitigation. In our recent effort, we aim to further understand the influence of catalytic walls on the impact of flame acceleration in microchannels. 
+
+My undergraduate journey at National Institute of Technology, Tiruchirappalli has been quite rewarding and fun. I started out working on rarefied gas-flows and reacting gas-dynamics with [Prof.Satheesh K](https://www.iist.ac.in/aerospace/satheeshk) at [Indian Institute of Space Science & Technology](https://www.iist.ac.in/aboutus/institute) for 6 months, building [CHEMOC](https://github.com/RSuryaNarayan/CHEMOC) (this doesn't work completely) and [high-temperature EoS solvers](https://github.com/RSuryaNarayan/High-Temperature-Gas-Dynamics). I love developing CFD codes and coded up [INTENSE](https://github.com/RSuryaNarayan/INT--E--NSE), a 2-d structured grid Navier-Stokes solver during undergrad. I also had the chance to intern over the Summer of 2021 during my undergraduate studies at ExxonMobil Upstream research and Development, Bengaluru Tech Center, India. Subsequently, I worked at the [FLAME lab](http://cds.iisc.ac.in/faculty/konduriadi/), Indian Institute of Science, alongside [Prof.Konduri Aditya](https://cds.iisc.ac.in/people/faculty/name/konduri-aditya/) for an year. Feel free to hit me up for a conversation on anything involving fluids, combustion, energy and computing. 
+
+I play badminton in my free time. I am an ardent fan of Carnatic Classical music (learnt till Gitams, starting out on Varnams and Kritis). However, I subscribe to a broad genre of songs spanning Carnatic classical music, Pop, Rock to Western Classical. I also love cooking dishes. I've cooked Indian (so far, a healthy mix of Tamil and North Indian food), Italian (mostly alfredo), Mexican and Thai so far.  
 
 ## Research Interests
 ---
 I get piqued by:
-1. Turbulent combustion- algorithms for numerical methods/code development/ diagnostics on large scale datasets
-2. Hypersonic reacting flows- rarefied external flows and scramjet propulsion
-3. High-performance computing- CPU/GPU/TPU hybrid computations to accelerate simulations  
-4. Machine Learning to accelerate CFD
-5. Reduced order modelling (ROM)/Surrogate Modelling
+1. Turbulent combustion- algorithms for numerical methods/code development/ diagnostics on large scale datasets, specifically at high/supercritical pressure
+2. Detonations- both applied research (RDEs, Explosion safety, DDT) and fundamental (cell structure, stability, pocket burning, transverse waves etc.)
+3. Hypersonic reacting flows- to enable >Mach 6 flight via ramjets, scramjets, shcramjets etc..
+4. Reduced Order Modelling - LES/RANS closure development, Spectral methods, Manifold-based methods, Dimensionality Reduction (PCA, Autoencoder etc.), Neural ODEs/PDEs, PINNS etc.
+5. High-performance computing- heterogeneous computing, hybrid (CPU/CPU, CPU/GPU) computations to accelerate simulations
 
 ## Publications
 ---
-1. Navneeth Srinivasan, **Surya Narayan** and Suo Yang. "High Pressure Turbulent Cool flames - Real Gas Effects and Pressure Scaling." In [*18th International Conference on Numerical Combustion*](https://www.combustioninstitute.org/ci-event/international-meeting-on-numerical-combustion/), 2022.
-2. **Suryanarayan Ramachandran**, Navneeth Srinivasan, Taaresh Sanjeev Taneja, Hongyuan Zhang, Suo Yang. "Numerical Study of Turbulent Non-Premixed Cool Flames at High and Supercritical Pressures: Real Gas Effects and Dual Peak Structure." In [*Combustion and Flame*](https://www.journals.elsevier.com/combustion-and-flame)(submitted), 2022. 
-3. **Suryanarayan Ramachandran**, Navneeth Srinivasan, Hongyuan Zhang,Taaresh Sanjeev Taneja, Suo Yang. "Numerical Simulations of turbulent non-premixed cool flames at supercritical/high pressures: dual peak structure, pressure scaling and real-gas effects." In [*American Physical Society-Division of Fluid Dynamics Abstracts*](https://www.apsdfd2022.org/)(accepted), 2022.
-4. **Suryanarayan Ramachandran**, Navneeth Srinivasan, Shufan Zou, Suo Yang. "Spectral Characterization of Overdriven Irregular Detonations." In [*American Physical Society-Division of Fluid Dynamics Abstracts*](https://www.apsdfd2022.org/)(accepted), 2022.
-5. **Suryanarayan Ramachandran**, Navneeth Srinivasan, Shufan Zou, Suo Yang. "Spectral Analysis of Irregular Detonation Cellular Structures." In [*American Institute of Aeronautics and Astronautics(AIAA)-SciTech*](https://www.aiaa.org/SciTech)(accepted), 2022.
+You can refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=7sn3bjwAAAAJ&hl=en) for an updated and complete list. 
+### Peer-Reviewed Journal Articles
+1. **Ramachandran, S.**, Srinivasan, N., Taneja, T.S., Zhang, H. and Yang, S., 2023. Numerical study of turbulent non-premixed cool flames at high and supercritical pressures: Real gas effects and dual peak structure. Combustion and Flame, 249, p.112626.
+2. **Ramachandran, S.**, Srinivasan, N., Wang, Z., Behkish, A. and Yang, S., 2023. A numerical investigation of deflagration propagation and transition to detonation in a microchannel with detailed chemistry: Effects of thermal boundary conditions and vitiation. Physics of Fluids, 35(7).
+3. **Ramachandran, S.**, Yang, S., (in preparation for Combustion and Flame). Microscopic Hypersonic Jetting and Origins of Transverse Waves in Oblique Detonations.
 
-## References
----
-1. [Prof.Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/)
-2. [Prof.Suo Yang](https://crfel.umn.edu/)
-3. [Prof.P.Kaushik](https://www.nitt.edu/home/academics/departments/mech/faculty/pkaushik/)
+### Refereed Conference Proceedings
+1. **Suryanarayan, R.**, Srinivasan, N., Zou, S. and Yang, S., 2023. A Spectral Analysis of Unstable Detonation. In AIAA SCITECH 2023 Forum (p. 0349).
+2. Srinivasan, N., **Suryanarayan, R.**, Zhang, H., Taneja, T. and Yang, S., 2022. Numerical Simulations of turbulent non-premixed cool flames at supercritical/high pressures: dual peak structure, pressure scaling and real-gas effects. Bulletin of the American Physical Society.
