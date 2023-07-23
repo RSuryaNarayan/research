@@ -27,7 +27,7 @@ You can refer to my [Google Scholar Profile](https://scholar.google.com/citation
 ### Peer-Reviewed Journal Articles
 1. **Ramachandran, S.**, Srinivasan, N., Taneja, T.S., Zhang, H. and Yang, S., 2023. Numerical study of turbulent non-premixed cool flames at high and supercritical pressures: Real gas effects and dual peak structure. Combustion and Flame, 249, p.112626.
 2. **Ramachandran, S.**, Srinivasan, N., Wang, Z., Behkish, A. and Yang, S., 2023. A numerical investigation of deflagration propagation and transition to detonation in a microchannel with detailed chemistry: Effects of thermal boundary conditions and vitiation. Physics of Fluids, 35(7).
-3. **Ramachandran, S.**, Yang, S., (in preparation for Combustion and Flame). Microscopic Hypersonic Jetting and Origins of Transverse Waves in Oblique Detonations.
+3. **Ramachandran, S.**, Yang, S., (in preparation for Combustion and Flame). Oblique Detonation Waves Exhibit Microjetting.
 
 ### Refereed Conference Proceedings
 1. **Suryanarayan, R.**, Srinivasan, N., Zou, S. and Yang, S., 2023. A Spectral Analysis of Unstable Detonation. In AIAA SCITECH 2023 Forum (p. 0349).
