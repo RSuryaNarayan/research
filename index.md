@@ -37,3 +37,6 @@ You can refer to my [Google Scholar Profile](https://scholar.google.com/citation
 5. **Ramachandran, S.**, Srinivasan, N., Zou, S. and Yang, S., 2023. Spectral Analysis of Irregular Detonations. 13th US National Combustion Meeting
 6. **Ramachandran, S.**, Srinivasan, N., Zhang, H., Taneja, T. and Yang, S., 2023. Numerical Simulations of turbulent non-premixed cool flames at supercritical/high pressures: dual peak structure, pressure scaling and real-gas effects. 13th US National Combustion Meeting
 7. **Suryanarayan, R.**, Srinivasan, N., Zou, S. and Yang, S., 2022. Spectral Characterization of Overdriven Irregular Detonations. Bulletin of the American Physical Society
+
+### Hobby/Course Projects
+1. **Ramachandran, S**., [CoK-PCA-ANN: Regression-aided Co-Kurtosis-based Principal Component Analysis to Identify Low-Dimensional Manifolds in Combustion Datasets](http://dx.doi.org/10.13140/RG.2.2.19489.79207/1)
