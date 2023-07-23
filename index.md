@@ -40,3 +40,4 @@ You can refer to my [Google Scholar Profile](https://scholar.google.com/citation
 
 ### Hobby/Course Projects
 1. **Ramachandran, S**., [CoK-PCA-ANN: Regression-aided Co-Kurtosis-based Principal Component Analysis to Identify Low-Dimensional Manifolds in Combustion Datasets](http://dx.doi.org/10.13140/RG.2.2.19489.79207/1)
+2. **Ramachandran, S**., [The Development of a Compressible Euler Equation Solver, Course Project, CFD, UMN Fall 2022](https://github.com/RSuryaNarayan/Compressible-Euler-Finite-Difference/blob/main/CFD_Final_project.pdf)
