@@ -30,9 +30,10 @@ You can refer to my [Google Scholar Profile](https://scholar.google.com/citation
 3. **Ramachandran, S.**, Yang, S., (in preparation for Combustion and Flame). Oblique Detonation Waves Exhibit Microjetting.
 
 ### Refereed Conference Proceedings
-1. **Suryanarayan, R.**, Srinivasan, N., Zou, S. and Yang, S., 2023. A Spectral Analysis of Unstable Detonation. In AIAA SCITECH 2023 Forum (p. 0349).
-2. Srinivasan, N., **Suryanarayan, R.**, Zhang, H., Taneja, T. and Yang, S., 2022. Numerical Simulations of turbulent non-premixed cool flames at supercritical/high pressures: dual peak structure, pressure scaling and real-gas effects. Bulletin of the American Physical Society.
-3. **Ramachandran, S.**, Srinivasan, N., Wang.Z, and Arsam, B., Yang.S, 2023. A Numerical Investigation of the Deflagration to Detonation Transition (DDT) in Microchannels: Effects of Vitiation and Wall Boundary Conditions. 13th US National Combustion Meeting
-4. **Ramachandran, S.**, Srinivasan, N., Zou, S. and Yang, S., 2023. Spectral Analysis of Irregular Detonations. 13th US National Combustion Meeting
-5. **Ramachandran, S.**, Srinivasan, N., Zhang, H., Taneja, T. and Yang, S., 2023. Numerical Simulations of turbulent non-premixed cool flames at supercritical/high pressures: dual peak structure, pressure scaling and real-gas effects. 13th US National Combustion Meeting
-6. **Suryanarayan, R.**, Srinivasan, N., Zou, S. and Yang, S., 2022. Spectral Characterization of Overdriven Irregular Detonations. Bulletin of the American Physical Society
+1. **Ramachandran, S.**, Yang, S., Microscopic Hypersonic Jetting in Oblique Detonation Waves (accepted to AIAA SCITECH 2024 Forum)
+2. **Suryanarayan, R.**, Srinivasan, N., Zou, S. and Yang, S., 2023. A Spectral Analysis of Unstable Detonation. In AIAA SCITECH 2023 Forum (p. 0349).
+3. Srinivasan, N., **Suryanarayan, R.**, Zhang, H., Taneja, T. and Yang, S., 2022. Numerical Simulations of turbulent non-premixed cool flames at supercritical/high pressures: dual peak structure, pressure scaling and real-gas effects. Bulletin of the American Physical Society.
+4. **Ramachandran, S.**, Srinivasan, N., Wang.Z, and Arsam, B., Yang.S, 2023. A Numerical Investigation of the Deflagration to Detonation Transition (DDT) in Microchannels: Effects of Vitiation and Wall Boundary Conditions. 13th US National Combustion Meeting
+5. **Ramachandran, S.**, Srinivasan, N., Zou, S. and Yang, S., 2023. Spectral Analysis of Irregular Detonations. 13th US National Combustion Meeting
+6. **Ramachandran, S.**, Srinivasan, N., Zhang, H., Taneja, T. and Yang, S., 2023. Numerical Simulations of turbulent non-premixed cool flames at supercritical/high pressures: dual peak structure, pressure scaling and real-gas effects. 13th US National Combustion Meeting
+7. **Suryanarayan, R.**, Srinivasan, N., Zou, S. and Yang, S., 2022. Spectral Characterization of Overdriven Irregular Detonations. Bulletin of the American Physical Society
